@@ -16,5 +16,5 @@ class Person
     @pant_length = attributes[:pant_length]
     @pant_width = attributes[:pant_width]
   end
-
+  
 end
